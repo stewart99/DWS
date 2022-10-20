@@ -29,7 +29,7 @@
             }else{
 
 
-                echo "No es un Palidromo";
+                echo "No es un Palindromo";
 
             }
 
