@@ -150,50 +150,5 @@ function sumaMatrices($matriz1,$matriz2){
 
 
 
-/*
 
-function convierteBinarioDecimal($binario){
-
-$potencia=strlen($binario)- 1;
-$total=0;
-$contador = 0;
-while($potencia >= 0){
-
-
-    if($binario[$contador] == "1"){
-
-
-
-        $total=$total + 2**$potencia;
-
-        
-
-    }
-
-    $potencia--;
-
-
-
-    $contador++;
-
-
- 
-}
-
-return $total;
-
-
-}
-
-   
-
-   
-   
-}
-
-
-
-
-
-*/
 

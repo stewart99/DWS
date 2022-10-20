@@ -28,7 +28,6 @@
 
             }else{
 
-
                 echo "No es un Palindromo";
 
             }
